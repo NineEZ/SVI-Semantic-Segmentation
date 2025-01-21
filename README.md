@@ -1,8 +1,8 @@
 # SVI-Semantic-Segmentation
-Sample:
+### Samples:
 
-[<img src="SVI_SS_01.jpg" width="30%" class="center">](.)
+* SVI_SS_01
 
-[<img src="SVI_SS_01_blend.png" width="30%" class="center">](.)
-
-[<img src="SVI_SS_01_ratio.png" width="30%" class="center">](.)
+[<img src="SVI_SS_01.jpg" width="40%">](.)
+[<img src="SVI_SS_01_blend.png" width="40%">](.)
+[<img src="SVI_SS_01_ratio.png" width="16.2%">](.)
